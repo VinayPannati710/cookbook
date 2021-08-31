@@ -1,0 +1,36 @@
+[33mcommit 95325b6e71e595f8e43862e92e6de82d52835653[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: e976108 a47415b
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 17:18:27 2021 +0530
+
+    Merge branch 'ideas' into main
+
+[33mcommit a47415b9de379b4298260e40cce00e4851689540[m[33m ([m[1;32mideas[m[33m)[m
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 17:16:51 2021 +0530
+
+    changed to 10 apples
+
+[33mcommit e976108bd7ad792d4c4bb4f1ba702f1f10163a60[m
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 17:05:13 2021 +0530
+
+    added tweaked apple pie recipe
+
+[33mcommit 591b7ca0cb3c845bbdbea9b8e24b7c103f877afc[m
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 16:50:11 2021 +0530
+
+    add apple pie recipes
+
+[33mcommit 0801402b86b8a5ee31d5f6af5e2a0abceef46100[m
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 16:12:54 2021 +0530
+
+    modified menu
+
+[33mcommit ddc6c539f2c9d833cd75c16bd95d5863176b9ad2[m
+Author: vinay palnati <vinaypalnati6174@gmail.com>
+Date:   Mon Aug 30 15:53:37 2021 +0530
+
+    First commit
